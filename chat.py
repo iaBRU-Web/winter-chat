@@ -56,3 +56,5 @@ while True:
         print("(cleared)\n")
         continue
     print("\nModel:", ask(q), "\n")
+
+https://claude.ai/share/43dfc57a-a28e-4880-b636-24bc41778d4f
